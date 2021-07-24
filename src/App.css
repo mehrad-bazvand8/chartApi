@@ -1,6 +1,14 @@
+
+@font-face {
+  font-family:iran;
+  src:url('./font/IRANSansWeb\(NoEn\)_Medium.ttf');
+}
+*{
+  font-family:iran; 
+}
 .App {
   text-align: center;
-}
+ }
 
 .App-logo {
   height: 40vmin;
